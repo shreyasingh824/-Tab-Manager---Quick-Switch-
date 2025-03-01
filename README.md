@@ -16,10 +16,9 @@
 ## **📸 Screenshots**  
 
 🔹 **Popup Interface (Tab List with Icons & Close Buttons)**  
-![Tab Manager UI](icons/tab-manager-screenshot.png)  
+ ![Screenshot 2025-03-01 144056](https://github.com/user-attachments/assets/cb70ede5-3a28-49df-853c-37bd7adb4e5e)
+[![Tab Manager Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
-🔹 **Search & Navigation**  
-![Search Tabs](icons/search-feature.png)  
 
 ---
 
