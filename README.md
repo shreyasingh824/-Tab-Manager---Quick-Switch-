@@ -97,5 +97,3 @@ Enjoy **effortless tab management** with **Tab Manager - Quick Switch!** 🎯✨
 
 ---
 
-This **README.md** file now includes a **working guide** with step-by-step instructions on how to use the extension! ✅  
-Let me know if you’d like any more refinements! 🚀🎯
