@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Tab Manager - Quick Switch",
+    "version": "1.1",
+    "description": "Quickly switch and manage open tabs in Chrome.",
+   
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "icon2.png"
+    },
+    "permissions": ["tabs"],
+    "host_permissions": ["<all_urls>"],
+    "background": {
+        "service_worker": "background.js"
+    }
+}

@@ -1,0 +1,100 @@
+/* General Styling */
+body {
+    width: 320px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    background: #f4f4f4;
+}
+
+/* Popup Container */
+.popup-container {
+    width: 100%;
+    padding: 15px;
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+/* Header */
+h2 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+/* Search Input */
+#search-tabs {
+    width: 90%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 14px;
+}
+
+/* Tab List */
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+/* Tab Item */
+.tab-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    margin: 5px 0;
+    background: #f8f9fa;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.tab-item:hover {
+    background: #dee2e6;
+}
+
+/* Tab Icon */
+.tab-icon {
+    width: 22px;
+    height: 22px;
+    margin-right: 10px;
+}
+
+/* Tab Title */
+.tab-title {
+    flex: 1;
+    font-size: 14px;
+    font-weight: 500;
+    color: #333;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+/* Close Button */
+.close-btn {
+    border: none;
+    background: transparent;
+    font-size: 16px;
+    color: #dc3545;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.close-btn:hover {
+    color: #c82333;
+    transform: scale(1.2);
+}
+/* Tab Icon */
+.tab-icon {
+    width: 22px;
+    height: 22px;
+    margin-right: 10px;
+    border-radius: 5px; /* Make icons rounded for better look */
+    background: #ddd; /* Ensure a background if the icon is transparent */
+}
