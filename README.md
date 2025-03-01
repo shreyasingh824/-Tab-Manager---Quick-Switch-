@@ -17,7 +17,8 @@
 
 🔹 **Popup Interface (Tab List with Icons & Close Buttons)**  
  ![Screenshot 2025-03-01 144056](https://github.com/user-attachments/assets/cb70ede5-3a28-49df-853c-37bd7adb4e5e)
-[![Tab Manager Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[Watch the video](https://github.com/shreyasingh824/-Tab-Manager---Quick-Switch-/blob/main/Tab%20Manager.mp4)
+
 
 
 ---
@@ -72,12 +73,6 @@
 
 ---
 
-## **📌 Upcoming Features**
-🚀 **Dark Mode Support**  
-🚀 **Keyboard Shortcuts for Quick Navigation**  
-🚀 **Tab Grouping & Sorting Options**  
-
----
 
 ## **🙌 Contribute**
 Want to improve **Tab Manager - Quick Switch**?  
@@ -85,16 +80,13 @@ Want to improve **Tab Manager - Quick Switch**?
 
 ---
 
-## **📜 License**
-This extension is open-source under the **MIT License**.  
-
----
 
 ## **💬 Support & Feedback**
 Found a bug? Have a suggestion? Let us know!  
 
-📩 **Email:** support@tabmanager.com  
-🐦 **Twitter:** [@tabmanager](https://twitter.com/tabmanager)  
+📩 **Email:** missshreyasingh1289@gmail.com
+ 
+
 ⭐ **If you like this extension, give it a star!**  
 
 ---
